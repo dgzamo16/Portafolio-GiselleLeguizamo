@@ -1,6 +1,5 @@
 # Portafolio — Giselle Leguizamo
-Desarrolladora de software enfocada en web.
-En formación enfocada en Python, datos e inteligencia artificial.
+Desarrolladora de software con base en web, en formación hacia Python, datos e inteligencia artificial.
 Construyo aplicaciones web con análisis de datos e IA por dentro.
 
 ## Tecnologías
