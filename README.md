@@ -19,7 +19,7 @@ Construyo aplicaciones web con análisis de datos e IA por dentro.
 - Python for Data Science, AI & Development · Coursera 2026
 
 ## Contacto
-- LinkedIn: linkedin.com/in/giselleleguizamo
-- GitHub: github.com/dgzamo16
+- LinkedIn: [linkedin.com/in/giselleleguizamo](https://linkedin.com/in/giselleleguizamo)
+- GitHub: [github.com/dgzamo16](https://github.com/dgzamo16)
 
 ## 📍 Colombia · Disponible para trabajo remoto / Presencial / Hibrido
