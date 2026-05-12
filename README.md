@@ -9,11 +9,12 @@ Construyo aplicaciones web con análisis de datos e IA por dentro.
 - Git · GitHub
 
 ## Proyectos
+- Portafolio Giselle Leguizamo: https://portafolio-giselle-leguizamo.vercel.app/
 - [Análisis OnlineFoods con ML](https://github.com/dgzamo16/ml-analisis-pedidos-onlinefoods) | Segmentación de       clientes con K-means clustering | Python · Pandas · Matplotlib
-- [Blog Personal](https://github.com/dgzamo16/blog-personal) | Blog personal desarrollado con HTML y CSS | HTML ·    CSS 
+- [Blog Personal](https://github.com/dgzamo16/blog-personal) | Blog personal desarrollado con HTML y CSS | HTML · CSS
 
 ## Formación
-- Programa de Formacion en Habilidades de Programacion con Profundizacion en Apliaciones Web · Universidad de        Antioquia y Mintic 2022
+- Programa de Formacion en Habilidades de Programacion con Profundizacion en Apliaciones Web · Universidad de Antioquia y Mintic 2022
 - Tecnologia en Desarrollo de Software · Corporación Universitaria Remington 2024
 - Seminario de Machine Learning en Tiempos de Datos · 2024
 - Python for Data Science, AI & Development · Coursera 2026
